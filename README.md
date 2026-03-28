@@ -6,7 +6,8 @@
 
 <br>
 
-**Designing calm, intentional digital experiences.**  
+Portfolio: https://giartlab.ca
+
 
 </div>
 

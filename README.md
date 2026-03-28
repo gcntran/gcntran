@@ -38,11 +38,6 @@ A cozy, introspective interactive experience built with Phaser.
 - Interaction zones  
 - Narrative pacing & symbolism
   
-Here is a character in my game, Dot the cat!
-    /\_/\ 
-  ( = . = ) 
-  (  >🌿<  )
-
 ---
 
 ## **Skills & Tools**

@@ -33,7 +33,8 @@ My work centers on:
 ## **Current Projects**
 
 ### 🎮 **Linger (2D Web Game)**
-A cozy, introspective interactive experience built with Phaser.  
+A cozy, introspective interactive experience built with Phaser. 
+This is my first solo game design and development.
 - Pixel interior design  
 - Interaction zones  
 - Narrative pacing & symbolism
